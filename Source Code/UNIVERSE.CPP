@@ -1,8 +1,6 @@
 //universe.cpp: Uniersity Management System
 
 //Decleration of header files
-#include <iostream.h>
-#include <fstream.h>
 #include <process.h>
 #include <string.h>
 #include <stdio.h>
@@ -10,8 +8,6 @@
 #include <conio.h>
 #include <dos.h>
 #include <stdlib.h>
-#include <iomanip.h>
-#include <graphics.h>
 
 typedef char option[45] ;
 const int row = 10, col = 10 ;
